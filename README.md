@@ -1,5 +1,7 @@
 # GATEMATE
 
+Nota: 17
+
 ## Abstract
   GateMate is centered around the collection, organization, and presentation of flight
 data obtained through the AirLabs API. It addresses the high-level business problem
